@@ -1,0 +1,319 @@
+{
+  "practitionerId": "1111189",
+  "detail": {
+    "active": false,
+    "lastName": "Heaton",
+    "firstName": "Berton",
+    "middleInitial": "R",
+    "credentialingDesignator": "MD",
+    "ssn": "190684059",
+    "gender": "Male",
+    "termedForCause": false,
+    "medicareOptOut": false,
+    "npiType1": {
+      "npiType": "1417336090",
+      "user": "Benita.Lewis",
+      "date": "2020-05-26"
+    },
+    "notifyLegal": {
+      "notifyLegal": false
+    },
+    "degrees": [
+      {
+        "degree": "MD"
+      }
+    ]
+  },
+  "sites": [
+    {
+      "siteId": "0005488",
+      "site": {
+        "siteId": "0005488",
+        "checkOrgId": "000001",
+        "checkOrgAddressID": 13,
+        "fedTaxId": "363261413",
+        "name": "Allina Health Shakopee Clinic",
+        "city": "Shakopee",
+        "siteStatus": "Active",
+        "msp": "00980000184",
+        "mecId": "00980000184",
+        "npi": "1477859486",
+        "specialty": "Family Practice"
+      },
+      "sequenceId": "1",
+      "locationStartDate": "2020-07-27",
+      "sitePrimaryAlternate": "Primary",
+      "specialtyAtSite": "Ob-Gynecologist - 0007",
+      "acceptingNewPatients": true,
+      "directorySuppress": false,
+      "currentlyPracticingAtThisLocation": true
+    },
+    {
+      "siteId": "0005912",
+      "site": {
+        "siteId": "0005912",
+        "checkOrgId": "000001",
+        "checkOrgAddressID": 13,
+        "fedTaxId": "363261413",
+        "name": "Allina Health Cambridge Clinic",
+        "city": "Cambridge",
+        "siteStatus": "Active",
+        "msp": "00980001188",
+        "mecId": "00980001188",
+        "npi": "1720384175",
+        "specialty": "Family Practice"
+      },
+      "sequenceId": "2",
+      "locationStartDate": "2020-07-27",
+      "sitePrimaryAlternate": "Alternate",
+      "specialtyAtSite": "Ob-Gynecologist - 0007",
+      "acceptingNewPatients": true,
+      "directorySuppress": false,
+      "currentlyPracticingAtThisLocation": true
+    },
+    {
+      "siteId": "0002289",
+      "site": {
+        "siteId": "0002289",
+        "checkOrgId": "000001",
+        "checkOrgAddressID": 13,
+        "fedTaxId": "363261413",
+        "name": "Allina Health Hastings Clinic",
+        "city": "Hastings",
+        "siteStatus": "Active",
+        "msp": "00980001224",
+        "mecId": "00980001224",
+        "npi": "1841596665",
+        "specialty": "Family Practice"
+      },
+      "sequenceId": "3",
+      "locationStartDate": "2020-07-27",
+      "sitePrimaryAlternate": "Alternate",
+      "specialtyAtSite": "Ob-Gynecologist - 0007",
+      "acceptingNewPatients": true,
+      "directorySuppress": false,
+      "currentlyPracticingAtThisLocation": true
+    }
+  ],
+  "credentialing": {
+    "setup": {
+      "complete": [
+        {
+          "complete": false
+        }
+      ],
+      "process": [
+        {
+          "received": "2020-05-01",
+          "status": "QA Review",
+          "category": "Primary Care Provider",
+          "from": "2020-05-12",
+          "to": "2023-05-11",
+          "coordinator": "Benita.Lewis"
+        }
+      ]
+    },
+    "license": [
+      {
+        "number": "67208 ",
+        "status": "Current",
+        "expiration": "2020-10-30",
+        "state": "MN",
+        "institution": "Minnesota Board of Medical Practice",
+        "licensure": "Physician (MD)",
+        "verify": {
+          "date": "2020-05-26",
+          "verifiedBy": "Benita.Lewis"
+        }
+      }
+    ],
+    "dea": [
+      {
+        "number": "fh8784678",
+        "status": "Current",
+        "expiration": "2022-05-31",
+        "state": "LA",
+        "institution": "Drug Enforcement Administration",
+        "licensure": "Physician (MD)",
+        "verify": {
+          "date": "2020-05-26",
+          "verifiedBy": "Benita.Lewis"
+        }
+      }
+    ],
+    "education": [
+      {
+        "institutionName": "University of Kentucky College of Medicine",
+        "degree": "MD",
+        "degreeProgram": "Medical School",
+        "start": "2011-07-11",
+        "end": "2015-05-16",
+        "graduate": true
+      },
+      {
+        "institutionName": "Ochsner Foundation Hospital",
+        "institutionCity": "new Orleans",
+        "institutionCountry": "United States",
+        "degreeProgram": "Residency",
+        "start": "2020-07-01",
+        "end": "2019-06-30",
+        "specialty": "Obstetrics & Gynecology",
+        "graduate": true,
+        "verify": {
+          "date": "2020-05-26",
+          "how": "Letter",
+          "verifiedBy": "Benita.Lewis",
+          "action": "Verified"
+        }
+      }
+    ],
+    "attestation": [
+      {
+        "allQuestionsAnswered": true,
+        "yesExplained": true,
+        "signed": true,
+        "signatureDate": "2020-05-01",
+        "verify": {
+          "date": "2020-05-26",
+          "how": "Application",
+          "verifiedBy": "Benita.Lewis"
+        }
+      }
+    ],
+    "authorization": [
+      {
+        "medicaListed": "Yes",
+        "signed": true,
+        "signatureDate": "2020-05-01",
+        "verify": {
+          "date": "2020-05-24",
+          "how": "Application",
+          "verifiedBy": "Benita.Lewis"
+        }
+      }
+    ],
+    "npdb": [],
+    "exclusion": [
+      {
+        "verify": {
+          "date": "2020-05-05",
+          "how": "Web",
+          "verifiedBy": "Benita.Lewis",
+          "action": "Verified"
+        }
+      },
+      {
+        "verify": {
+          "date": "2020-05-26",
+          "how": "Reference",
+          "verifiedBy": "Benita.Lewis",
+          "action": "Verified"
+        }
+      },
+      {
+        "verify": {
+          "date": "2020-05-26",
+          "how": "Web",
+          "verifiedBy": "Benita.Lewis",
+          "action": "Verified"
+        }
+      },
+      {
+        "verify": {
+          "date": "2020-05-26",
+          "verifiedBy": "Benita.Lewis",
+          "action": "Verified"
+        }
+      }
+    ],
+    "employmentHistory": [
+      {
+        "gapsInEmployment": "No"
+      }
+    ],
+    "board": [],
+    "liabilityCoverage": [
+      {
+        "carrier": "Allina Health System Indemnification Program",
+        "coverageType": "Professional Liability",
+        "occurrenceAmount": "8",
+        "aggregateAmount": "30",
+        "effective": "2019-11-01",
+        "expiration": "2020-11-01",
+        "verify": {
+          "date": "2020-05-26",
+          "how": "Copy",
+          "verifiedBy": "Benita.Lewis",
+          "action": "Verified"
+        }
+      }
+    ]
+  },
+  "hospitalPrivileges": [
+    {
+      "name": "Cambridge Medical Center",
+      "address": "701 Dellwood St S",
+      "city": "Cambridge",
+      "state": "MN",
+      "zip": "55555",
+      "applicationPending": true,
+      "affiliationType": "Other Hospital",
+      "site": {
+        "name": "Cambridge Medical Center",
+        "city": "Cambridge",
+        "checkOrgId": "000001",
+        "checkOrgAddressId": "2",
+        "fedTaxId": "363261413",
+        "msp": "00500002988",
+        "mecId": "00500002988"
+      }
+    },
+    {
+      "name": "Abbott Northwestern Hospital",
+      "address": "800 E 28th St",
+      "city": "Minneapolis",
+      "state": "MN",
+      "applicationPending": true,
+      "affiliationType": "Primary Hospital",
+      "site": {
+        "name": "Abbott Northwestern Hospital",
+        "city": "Minneapolis",
+        "checkOrgId": "000001",
+        "checkOrgAddressId": "2",
+        "fedTaxId": "363261413",
+        "msp": "00500000800",
+        "mecId": "00500000001"
+      }
+    },
+    {
+      "name": "St Francis Regional Medical Center",
+      "address": "1455 Saint Francis Ave",
+      "city": "Shakopee",
+      "state": "MN",
+      "applicationPending": true,
+      "affiliationType": "Other Hospital",
+      "site": {
+        "name": "St Francis Regional Medical Center",
+        "city": "Shakopee",
+        "checkOrgId": "001819",
+        "checkOrgAddressId": "2",
+        "fedTaxId": "410907986",
+        "msp": "00500001124",
+        "mecId": "00500000032"
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "type": "Credentialing",
+      "name": "Kayla Elsenpetet",
+      "email": "kayla.elsenpeter@allina.com"
+    }
+  ],
+  "medicalAffairs": {
+    "medicaPolicy": false,
+    "credentialing": false
+  },
+  "sourceSystem": "symfact",
+  "crosswalk": {}
+}
